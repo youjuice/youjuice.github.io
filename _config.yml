@@ -52,3 +52,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+simple_jekyll_search:
+  min_length: 3
+  search_results_title: "Search Results"
