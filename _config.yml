@@ -35,7 +35,6 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-paginate
-  - category-generator
 
 paginate: 7
 paginate_path: "/page/:num/"
@@ -52,6 +51,13 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+gems:
+  - jekyll
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
 
 simple_jekyll_search:
   min_length: 3
