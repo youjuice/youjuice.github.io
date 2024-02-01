@@ -17,8 +17,8 @@ layout: default
       <a href="/contact" class="c-contact-btn c-btn c-btn--secondary c-btn--round c-btn--shadow"><span data-icon='ei-envelope' data-size='s'></span> Send me</a>
       {% else %}
       {% endif %}
-      {% if site.author-twitter %}
-      <a href="https://twitter.com/intent/user?screen_name={{ site.social-twitter }}" class="c-btn c-btn--primary c-btn--round c-btn--shadow"><span data-icon='ei-sc-twitter' data-size='s'></span> Follow me</a>
+      {% if site.author-instagram %}
+      <a href="https://instagram.com/{{ site.social-instagram }}" class="c-btn c-btn--primary c-btn--round c-btn--shadow"><span data-icon='ei-sc-instagram' data-size='s'></span> Follow me</a>
       {% else %}
       {% endif %}
     </div>
@@ -27,7 +27,7 @@ layout: default
 
   <div class="c-sidebar-footer">
     <div class="c-social">
-      <div class="c-social__title">Social</div>
+      <div class="c-social__title">Github</div>
       <ul class="c-social__list u-lists-reset">
         {% if site.social-twitter %}
           <li class="c-social__item"><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><div data-icon='ei-sc-twitter' data-size='s'></div></a></li>
@@ -45,16 +45,8 @@ layout: default
           <li class="c-social__item"><a href="https://pinterest.com/{{site.social-pinterest}}" target="_blank"><div data-icon='ei-sc-pinterest' data-size='s'></div></a></li>
         {% else %}
         {% endif %}
-        {% if site.social-instagram %}
-          <li class="c-social__item"><a href="https://instagram.com/{{ site.social-instagram }}" target="_blank"><div data-icon='ei-sc-instagram' data-size='s'></div></a></li>
-        {% else %}
-        {% endif %}
         {% if site.social-youtube %}
           <li class="c-social__item"><a href="https://youtube.com/{{ site.social-youtube }}" target="_blank"><div data-icon='ei-sc-youtube' data-size='s'></div></a></li>
-        {% else %}
-        {% endif %}
-        {% if site.social-blog %}
-          <li class="c-social__item"><a href="https://blog.naver.com/{{ site.social-blog }}" target="_blank"><div data-icon='<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="black" d="M3 3v18h18V3zm15 15H6v-1h12zm0-2H6v-1h12zm0-4H6V6h12z"/></svg>' data-size='s'></div></a></li>
         {% else %}
         {% endif %}
         {% if site.social-linkedin %}
