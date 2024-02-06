@@ -24,7 +24,7 @@ permalink:        /About/
 ---
 
 ## Hi!
-I'm **Robert Smith**, *a.k.a.* [**@{{site.data.authors.authot1.github}}**]({{site.data.social.github.prepend}}{{site.data.authors.authot1.github}}).
+I'm **Yuju**, *a.k.a.* [**@{{site.data.authors.authot1.github}}**]({{site.data.social.github.prepend}}{{site.data.authors.authot1.github}}).
 
 Pleaseh check my [Resume](/Resume/) if you wish to know more about me.
 
