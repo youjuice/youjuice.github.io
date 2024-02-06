@@ -66,11 +66,12 @@ skills:
       - HTML
       - CSS
       - Python
-  - name:  "etc..."
-    level: 2-5
+  - name:  "Etc..."
+    level: 1
     keywords:
       - Blender
       - Adobe After Effects
+      - R
 languages:
   - language: "Korean"
     fluency:  "Native speaker"
