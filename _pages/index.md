@@ -17,8 +17,8 @@ image:
     960w:         /assets/img/home/banner@0,5x.png
     480w:         /assets/img/home/banner@0,25x.png
 
-title:            Home
-description:      Discover my skills, experiences, and projects
+title:            ₍ᐢ•ﻌ•ᐢ₎*･ﾟ｡☆
+description:      Yuju's Dev Diary
 hide_description: true
 permalink:        /
 
