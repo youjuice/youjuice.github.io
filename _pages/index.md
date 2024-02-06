@@ -36,9 +36,7 @@ selected_projects: # MAX 4
 
 이 곳은 저의 개발 일지와 프로젝트에 대한 내용을 담을 블로그입니다.
 
-저의 일상이 궁금하시다면 
-
--ˋˏ[dbwn_fav](https://blog.naver.com/dbwn_fav)ˎˊ- 블로그로 와주세요ᯓ★
+저의 일상이 궁금하시다면 -ˋˏ[dbwn_fav](https://blog.naver.com/dbwn_fav)ˎˊ- 블로그로 놀러오세요ᯓ★
 
 그럼 20000!!
 
