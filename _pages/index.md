@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2023-05-15
+last_modified_at: 2024-02-07
 no_link_title:    false 
 no_excerpt:       false 
 hide_image:       false
@@ -43,8 +43,8 @@ selected_projects: # MAX 4
 Welcome⎝⍢⎠ This blog is about my Dev Diary & Projects.
 
 Thanks for visiting, and I hope you enjoy exploring my work!    
-
-
+          
+         
 ***
 
 <!--projects-->
