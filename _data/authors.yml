@@ -1,13 +1,14 @@
 author1:
-  name:                Robert Smith
-  email:               RSmith_20@oulook.com
+  name:                Yuju
+  email:               yooju000326@gmail.com
   about:               ""
   picture:
-    path:              /assets/img/ryvor.png
+    path:              /assets/img/yuju.png
   social:
-    github:            ryvor
-    twitter:           _ryvor
-    email:             RSmith_20@outlook.com
+    github:            yuju-00
+    instagram:       foenrwn
+    email:             yooju000326@gmail.com
+    # twitter:           _ryvor
     # linkedin:        <username>
     # stackoverflow:   <number>
     # rss:             <url>
@@ -20,7 +21,6 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
