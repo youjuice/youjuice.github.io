@@ -67,7 +67,7 @@ skills:
       - CSS
       - Python
   - name:  "etc..."
-    level: "Amateur"
+    level: 2-5
     keywords:
       - Blender
       - Adobe After Effects
@@ -75,7 +75,7 @@ languages:
   - language: "Korean"
     fluency:  "Native speaker"
   - language: "English"
-    fluency:  3-5 
+    fluency:  2-5 
 interests:
   - name: "Music"
     keywords:
