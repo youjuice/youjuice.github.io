@@ -32,14 +32,17 @@ selected_projects: # MAX 4
   - _projects/AvaAssistant.md
 ---
 
-# Hey there!
+# Welcome *⁀➷♥
 
-Hi! I'm Robert, otherwise known as [@{{ site.data.authors.author1.social.github }}]({{site.data.social.github.prepend}}{{site.data.authors.author1.social.github}}). In my free time, I enjoy working on software development projects in a variety of areas. I am particularly passionate about creating new software solutions that can benefit people in all types of industries and domains.
+₍ᐢ•ﻌ•ᐢ₎*･ﾟ｡☆
+이 곳은 저의 개발 일지와 프로젝트에 대한 내용을 담을 블로그입니다.
 
-Currently, my main focus is on [Enigma IDE](https://ryvor.github.io/Project/EnigmaIDE/), A simple but secure Code IDE and Obfuscator. My other projects include [MultiDomainX](https://ryvor.github.io/Project/MultiDomainX/), a tool that allows users to manage multiple domains in a single interface, [Aura OS](https://ryvor.github.io/Project/AuraOS), a simple and elegant operating system and [AVA Assistant](https://ryvor.github.io/Project/AvaAssistant), my personal AI assistant.
+저의 일상이 궁금하시다면 [dbwn_fav](https://blog.naver.com/dbwn_fav) 블로그로 와주세요ᯓ★
 
-I believe that technology has the power to transform the world we live in, and I'm excited to be a part of this ongoing revolution. Whether you're interested in collaborating on a project or just want to chat about software development, feel free to get in touch with me on [Twitter]({{site.data.social.twitter.prepend}}{{site.data.authors.author1.social.twitter}}) or via my website.
+그럼 20000!
 
+Hi!
+This blog is about my Dev Diary & Projects.
 Thanks for visiting, and I hope you enjoy exploring my work!
 
 ***
