@@ -23,8 +23,7 @@ description:      Welcome to my blog!
 hide_description: true
 date:             2024-02-07 00:26:00
 featured:         false
-toc:              true
-toc_sticky:       true
+
 tag:              General
 ---
 
