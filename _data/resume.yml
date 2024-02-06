@@ -26,7 +26,7 @@ work:
     endDate:     "2024-08-01"
     summary:     ""
     highlights:
-  - company:     "Part-time Math Instructor, Seoul"
+  - company:     "Part-time Math Instructor"
     position:    ""
     website:     ""
     startDate:   "2021-07-01"
@@ -36,13 +36,13 @@ work:
 volunteer:
 education:
   - institution: "Sangmyung University, Seoul, Korea"
-    major:        "Bachelor of Game Engineering"
-    # studyType:   ""
+    studyType:   "Bachelor of Game Engineering"
     startDate:   "2020-03-01"
     endDate:     "2024-02-01"
     # courses:
-  - institution:  "Mokdong High School, Seoul, Korea"
-    date:        "2016-2019"
+  - institution: "Mokdong High School, Seoul, Korea"
+    startDate:   "2016-03-01"
+    endDate:     "2019-02-01"
     # certificate: "Diploma of Motor Vehicle Service, Diagnostics and Repair"
     # date:        "2021"
 projects:
