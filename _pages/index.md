@@ -44,7 +44,6 @@ Welcome⎝⍢⎠ This blog is about my Dev Diary & Projects.
 
 Thanks for visiting, and I hope you enjoy exploring my work!    
           
-         
 ***
 
 <!--projects-->

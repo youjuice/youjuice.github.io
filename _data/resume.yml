@@ -15,9 +15,9 @@ basics:
     - network: "Github"
       username: "yuju-00"
       url: "https://github.com/yuju-00"
-    - network: "Email"
-      username: "yooju000326@gmail.com"
-      url: "mailto:yooju000326@gmail.com"
+    # - network: "Email"
+      # username: "yooju000326@gmail.com"
+      # url: "mailto:yooju000326@gmail.com"
 work:
   - company:     "KRAFTON JUNGLE"
     position:    ""
