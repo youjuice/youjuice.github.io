@@ -4,7 +4,7 @@
 
 # General settings
 # ---------------------------------------------------------------------------------------
-url:                  https://yuju-00.github.io/
+url:                  https://youjuice.github.io/
 source:               .
 destination:          ./_site
 include:
@@ -33,10 +33,10 @@ author:               # This should be the same author as first entry in `_data/
   picture:
     path:             /assets/img/yuju.png
   social:
-    github:           yuju-00
+    github:           youjuice
     twitter:          
     email:            yooju000326@gmail.com
-github_username:      yuju-00
+github_username:      youjuice
 
 copyright:            © yuju 2024. All rights reserved.
 legal:                # Add links to the footer. Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -91,7 +91,7 @@ defaults:
 comments:              # 'disqus' / 'giscus' / 'utterances' are available
   provider:            giscus
 giscus:
-  repo:                "yuju-00/yuju-00.github.io"
+  repo:                "youjuice/youjuice.github.io"
   repo-id:             "638951686"
   category:            "Comments"
   category-id:         "DIC_kwDOEHDTNc4B-MIg"

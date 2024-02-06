@@ -4,7 +4,7 @@ basics:
   picture: /assets/img/users/home_yuju.png
   email: "yooju000326@gmail.com"
   # phone: "+82 10 8830 9742"
-  website: "https://yuju-00.github.io/"
+  website: "https://youjuice.github.io/"
   summary: |
     I'm a talking potato.
   location:
@@ -13,8 +13,8 @@ basics:
     country: "South Korea"
   profiles:
     - network: "Github"
-      username: "yuju-00"
-      url: "https://github.com/yuju-00"
+      username: "youjuice"
+      url: "https://github.com/youjuice"
     # - network: "Email"
       # username: "yooju000326@gmail.com"
       # url: "mailto:yooju000326@gmail.com"
