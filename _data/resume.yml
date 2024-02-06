@@ -6,7 +6,6 @@ basics:
   # phone: "+82 10 8830 9742"
   website: "https://yuju-00.github.io/"
   summary: |
-    저는 말하는 감자입니다.
     I'm a talking potato.
   location:
     city: "Seoul"
@@ -21,7 +20,7 @@ basics:
       url: "mailto:yooju000326@gmail.com"
 work:
   - company:     "KRAFTON JUNGLE"
-    position:    ""
+    # position:    ""
     website:     ""
     startDate:   "2024-03-18"
     endDate:     "2024-08-01"
@@ -38,24 +37,22 @@ volunteer:
 education:
   - institution: "Sangmyung University, Seoul, Korea"
     area:        "Bachelor of Game Engineering"
-    studyType:   ""
+    # studyType:   ""
     startDate:   "2020-03-01"
     endDate:     "2024-02-01"
-    courses:
+    # courses:
   - institution: "Mokdong High School, Seoul, Korea"
-    area:        ""
-    studyType:   ""
     startDate:   "2016-03-01"
     endDate:     "2019-02-01"
   - # certificate: "Diploma of Motor Vehicle Service, Diagnostics and Repair"
     # date:        "2021"
 projects:
-  - title:       ""
-    startDate:   ""
-    endDate:     ""
-    summary:     ""
-    url:         ""
-    highlights:
+  # - title:       ""
+    # startDate:   ""
+    # endDate:     ""
+    # summary:     ""
+    # url:         ""
+    # highlights:
 awards:
 skills:
   - name:  "Game development"
