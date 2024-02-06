@@ -30,23 +30,23 @@ work:
   - company:     "Math Academy, Seoul"
     position:    "High School Math Teacher"
     website:     ""
-    startDate:   "2021-07"
-    endDate:     "2022-05"
+    startDate:   "2021-07-01"
+    endDate:     "2022-05-01"
     summary:     ""
     highlights:
 volunteer:
 education:
   - institution: "Sangmyung University, Seoul, Korea"
-    area:        "Major: Bachelor of Game Engineering / Minor: "
+    area:        "Bachelor of Game Engineering"
     studyType:   ""
-    startDate:   "2020-03"
-    endDate:     "2024-02"
+    startDate:   "2020-03-01"
+    endDate:     "2024-02-01"
     courses:
   - institution: "Mokdong High School, Seoul, Korea"
     area:        ""
     studyType:   ""
-    startDate:   "2016-03"
-    endDate:     "2019-02"
+    startDate:   "2016-03-01"
+    endDate:     "2019-02-01"
   - # certificate: "Diploma of Motor Vehicle Service, Diagnostics and Repair"
     # date:        "2021"
 projects:
