@@ -75,7 +75,7 @@ languages:
   - language: "Korean"
     fluency:  "Native speaker"
   - language: "English"
-    fluency:  "Amateur"  
+    fluency:  3-5 
 interests:
   - name: "Music"
     keywords:
