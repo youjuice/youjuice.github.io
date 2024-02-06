@@ -40,7 +40,7 @@ selected_projects: # MAX 4
 
 그럼 20000!!
 
-Welcome ⎝⍢⎠ This blog is about my Dev Diary & Projects.
+Welcome⎝⍢⎠ This blog is about my Dev Diary & Projects.
 
 Thanks for visiting, and I hope you enjoy exploring my work!
 
