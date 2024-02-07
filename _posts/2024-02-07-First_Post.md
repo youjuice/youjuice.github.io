@@ -10,11 +10,11 @@ sidebar:          false
 order:            0
 
 image:
-  path:           /assets/img/banner/banner.png
+  path:           /assets/img/posts/240207.png
   srcset:
-    1920w:        /assets/img/banner/banner.png
-    960w:         /assets/img/banner/banner.png
-    480w:         /assets/img/banner/banner.png
+    1920w:        /assets/img/posts/240207.png
+    960w:         /assets/img/posts/240207.png
+    480w:         /assets/img/posts/240207.png
 caption:          
 
 title:            Welcome
