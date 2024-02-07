@@ -26,7 +26,7 @@ featured:         false
 ---
 
 **"Lethe"** is an RPG game being developed by Team Blue.<br>
-It has been developed since 2023, and the prototype has been completed.
+It has been developed since January 2023, and the prototype has been completed.
 We aim to release it on Steam in the second half of 2024.
 
 
