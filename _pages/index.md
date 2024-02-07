@@ -36,12 +36,11 @@ selected_projects: # MAX 4
 
 저의 일상이 궁금하시다면 -ˋˏ[**dbwn_fav**](https://blog.naver.com/dbwn_fav)ˎˊ- 블로그로 놀러오세요ᯓ★
 
-Welcome⎝⍢⎠
-
-This blog is about my Dev Diary & Projects.
+Welcome⎝⍢⎠ This blog is about my Dev Diary & Projects.
 
 Thanks for visiting, and I hope you enjoy exploring my work!
-<br></br>
+
+<br/>
 
 ---
 
