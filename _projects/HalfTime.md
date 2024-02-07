@@ -30,9 +30,7 @@ links:
 
 ---
 
-> Sell Your Time!
-
----
+> **Sell Your Time!**
 
 **"Half Time"** is a mentoring service platform proposed by Team HI_THINK.
 
