@@ -18,9 +18,9 @@ image:
     480w:         /assets/img/projects/banner@0,25x.png
 
 title:            Projects
-description:      All the projects I've done so far.
+description:      My blood, sweat and tears
 hide_description: false
 permalink:        /Projects/
 
-show_collection:  projects	
+show_collection:  projects
 ---

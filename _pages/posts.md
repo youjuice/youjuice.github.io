@@ -18,7 +18,7 @@ image:
     480w:         /assets/img/posts/banner@0,25x.png
 
 title:            Posts
-description:      All the posts in blog.
+description:      Dev-Diary
 hide_description: false
 permalink:        /Posts/
 
