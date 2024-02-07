@@ -30,7 +30,7 @@ links:
 
 ---
 
-> **What if you were 20 years old again?**
+> **What if you could be 20 again?**
 
 **"Can I Debug My First Love?"** is First-person Romance Simulation Game developed by Team 92.
 
