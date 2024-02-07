@@ -16,7 +16,7 @@ image:
     1920w:        /assets/img/projects/HalfTime/banner.png
     960w:         /assets/img/projects/HalfTime/banner.png
     480w:         /assets/img/projects/HalfTime/banner.png
-caption:          Team
+caption:          App Development Proposal
 
 title:            Half Time
 date:             2022-04-10 11:37:00
@@ -40,3 +40,4 @@ links:
 **"Half Time"** is a mentoring service platform proposed by Team HI_THINK.
 
 For more information, please [**click here!!**](https://ringed-postage-dfc.notion.site/HALF-TIME-f1b8e2965c20405b86f7edc228fd0082?pvs=4)
+</div>

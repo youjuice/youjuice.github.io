@@ -16,7 +16,7 @@ image:
     1920w:        /assets/img/projects/Lethe/image.png
     960w:         /assets/img/projects/Lethe/image.png
     480w:         /assets/img/projects/Lethe/image.png
-caption:          Team
+caption:          Turn-Based RPG Card Game
 
 title:            LETHE
 date:             2023-02-10 11:37:00
@@ -26,10 +26,13 @@ featured:         false
 
 ---
 
-**"Lethe"** is an RPG game being developed by Team Blue.</br>
-It has been developed since January 2023, and the prototype has been completed.</br>
+**"Lethe"** is an RPG game being developed by Team Blue.
+
+It has been developed since January 2023, and the prototype has been completed.
+
 We aim to release it on Steam in the second half of 2024.
 
+---
 ## Game Info
 
 - **Name**: LETHE
