@@ -19,7 +19,7 @@ caption:
 
 title:            Welcome
 hide_title:       false
-description:      Welcome to my blog!
+description:      My first post!
 hide_description: true
 date:             2024-02-07 00:26:00
 featured:         false
