@@ -18,7 +18,7 @@ image:
     480w:         /assets/img/projects/banner@0,25x.png
 
 title:            Projects
-description:      My blood, sweat and tears
+description:    
 hide_description: false
 permalink:        /Projects/
 
