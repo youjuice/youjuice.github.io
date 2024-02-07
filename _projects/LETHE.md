@@ -11,11 +11,11 @@ sidebar:          false
 order:            0
 
 image:
-  path:           /assets/img/projects/Lethe/banner.png
+  path:           /assets/img/projects/Lethe/image.png
   srcset:
-    1920w:        /assets/img/projects/Lethe/banner.png
-    960w:         /assets/img/projects/Lethe/banner.png
-    480w:         /assets/img/projects/Lethe/banner.png
+    1920w:        /assets/img/projects/Lethe/image.png
+    960w:         /assets/img/projects/Lethe/image.png
+    480w:         /assets/img/projects/Lethe/image.png
 caption:          Team
 
 title:            LETHE
