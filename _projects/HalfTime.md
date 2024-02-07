@@ -19,7 +19,7 @@ caption:          Team
 
 title:            Half Time
 date:             2022-04-10 11:37:00
-description:      Team HI_THINK
+description:      App Development Proposal
 hide_description: true
 featured:         false
 
@@ -36,6 +36,6 @@ links:
 
 ---
 
-This app is a mentoring service platform proposed by HI_THINK.
+**"Half Time"** is a mentoring service platform proposed by Team HI_THINK.
 
-For more information, please [click here!!](https://ringed-postage-dfc.notion.site/HALF-TIME-f1b8e2965c20405b86f7edc228fd0082?pvs=4)
+For more information, please [**click here!!**](https://ringed-postage-dfc.notion.site/HALF-TIME-f1b8e2965c20405b86f7edc228fd0082?pvs=4)
