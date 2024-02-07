@@ -30,7 +30,7 @@ links:
 
 ---
 
-## Sell Your Time!
+### Sell Your Time!
 
 ---
 
