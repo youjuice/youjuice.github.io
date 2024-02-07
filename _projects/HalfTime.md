@@ -32,8 +32,6 @@ links:
 
 ### Sell Your Time!
 
----
-
 **"Half Time"** is a mentoring service platform proposed by Team HI_THINK.
 
 For more information, please [**click here!!**](https://ringed-postage-dfc.notion.site/HALF-TIME-f1b8e2965c20405b86f7edc228fd0082?pvs=4)
