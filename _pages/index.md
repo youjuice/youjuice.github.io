@@ -39,9 +39,9 @@ selected_projects: # MAX 4
 Welcome⎝⍢⎠
 
 This blog is about my Dev Diary & Projects.
-`<br>`
+
 Thanks for visiting, and I hope you enjoy exploring my work!
-`</br>`
+<br></br>
 
 ---
 
