@@ -24,30 +24,29 @@ permalink:        /
 
 posts_page:       /Posts/
 selected_posts:
-  - _posts/2023-05-15-Welcome.md
+  - _posts/2024-02-07-First_Post.md
 projects_page:    /Projects/
 selected_projects: # MAX 4
-  - _projects/MultiDomainX.md
-  - _projects/AuraOS.md
-  - _projects/AvaAssistant.md
+  - _projects/HalfTime.md
+  - _projects/LETHE.md
 ---
-
 # ₍ᐢ•ﻌ•ᐢ₎*･ﾟ｡☆
 
 이 곳은 저의 개발 일지와 프로젝트에 대한 기록이 담긴 블로그입니다.
 
 저의 일상이 궁금하시다면 -ˋˏ[**dbwn_fav**](https://blog.naver.com/dbwn_fav)ˎˊ- 블로그로 놀러오세요ᯓ★
 
-Welcome⎝⍢⎠ 
+Welcome⎝⍢⎠
 
-This blog is about my Dev Diary & Projects. 
-<br>
-Thanks for visiting, and I hope you enjoy exploring my work!  
-</br>
-***
+This blog is about my Dev Diary & Projects.
+`<br>`
+Thanks for visiting, and I hope you enjoy exploring my work!
+`</br>`
+
+---
 
 <!--projects-->
 
-***
+---
 
 <!--posts-->
