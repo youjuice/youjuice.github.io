@@ -10,11 +10,11 @@ sidebar:          false
 order:            0
 
 image:
-  path:           /assets/img/projects/LETHE/banner.png
+  path:           /assets/img/projects/Lethe/banner.png
   srcset:
-    1920w:        /assets/img/projects/LETHE/banner.png
-    960w:         /assets/img/projects/LETHE/banner.png
-    480w:         /assets/img/projects/LETHE/banner.png
+    1920w:        /assets/img/projects/Lethe/banner.png
+    960w:         /assets/img/projects/Lethe/banner.png
+    480w:         /assets/img/projects/Lethe/banner.png
 caption:          Team
 
 title:            LETHE
@@ -25,10 +25,9 @@ featured:         false
 
 ---
 
-**"Lethe"** is an RPG game being developed by Team Blue.<br>
-It has been developed since January 2023, and the prototype has been completed.
+**"Lethe"** is an RPG game being developed by Team Blue.</br>
+It has been developed since January 2023, and the prototype has been completed.</br>
 We aim to release it on Steam in the second half of 2024.
-
 
 ## Game Info
 
