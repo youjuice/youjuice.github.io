@@ -18,7 +18,7 @@ image:
     480w:         /assets/img/projects/banner@0,25x.png
 
 title:            Projects
-description:    
+description:      All the projects I've done so far.
 hide_description: false
 permalink:        /Projects/
 
