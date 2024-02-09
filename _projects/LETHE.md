@@ -11,11 +11,11 @@ sidebar:          false
 order:            0
 
 image:
-  path:           /assets/img/projects/Lethe/image.png
+  path:           /assets/img/projects/Lethe/5.png
   srcset:
-    1920w:        /assets/img/projects/Lethe/image.png
-    960w:         /assets/img/projects/Lethe/image.png
-    480w:         /assets/img/projects/Lethe/image.png
+    1920w:        /assets/img/projects/Lethe/5.png
+    960w:         /assets/img/projects/Lethe/5.png
+    480w:         /assets/img/projects/Lethe/5.png
 caption:          Turn-Based RPG Card Game
 
 title:            LETHE
@@ -40,3 +40,15 @@ We aim to release it on Steam in the second half of 2024.
 - **Platform**: PC (Steam)
 - **Engine**: Unreal Engine 4.27
 - **Graphic**: Blender
+
+## Play Image
+
+![Before Card Selection](/assets/img/projects/Lethe/1.png)
+
+![Card Selection](/assets/img/projects/Lethe/2.png)
+
+![Choose Monster](/assets/img/projects/Lethe/3.png)
+
+![Fight with Monster](/assets/img/projects/Lethe/4.png)
+
+![Attack!](/assets/img/projects/Lethe/5.png)
