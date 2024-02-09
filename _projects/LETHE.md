@@ -43,12 +43,12 @@ We aim to release it on Steam in the second half of 2024.
 
 ## Play Image
 
-![Before Card Selection](/assets/img/projects/Lethe/1.png)
+![Before Card Selection](/assets/img/projects/Lethe/1.png)<center>*Before Card Selection*
 
-![Card Selection](/assets/img/projects/Lethe/2.png)
+![Card Selection](/assets/img/projects/Lethe/2.png)*Card Selection*
 
-![Choose Monster](/assets/img/projects/Lethe/3.png)
+![Choose Monster](/assets/img/projects/Lethe/3.png)*Choose Monster*
 
-![Fight with Monster](/assets/img/projects/Lethe/4.png)
+![Fight with Monster](/assets/img/projects/Lethe/4.png)*Fight with Monster*
 
-![Attack!](/assets/img/projects/Lethe/5.png)
+![Attack!](/assets/img/projects/Lethe/5.png)*Attack!*</center>
