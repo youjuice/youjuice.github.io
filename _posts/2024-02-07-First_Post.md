@@ -24,7 +24,7 @@ hide_description: true
 date:             2024-02-07 00:26:00
 featured:         false
 
-tag:              - studylog
+tag:              studylog
 ---
 
 드디어 첫 게시글이다!!
