@@ -30,7 +30,7 @@ featured:         false
 
 It has been developed since January 2023, and the prototype has been completed.
 
-We aim to release it on Steam in the second half of 2024.<br>
+We aim to release it on Steam in the second half of 2024.
 
 ---
 ## Game Info
