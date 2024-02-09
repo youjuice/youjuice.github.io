@@ -47,7 +47,7 @@ We aim to release it on Steam in the second half of 2024.
 
 ![Card Selection](/assets/img/projects/Lethe/2.png)*<center>Card Selection</center>*<br>
 
-![Choose Monster](/assets/img/projects/Lethe/3.png)*<center>Choose Monster</center>*<br>
+![Choose Monster](/assets/img/projects/Lethe/3.png)*<center>Choose Monster & Card</center>*<br>
 
 ![Fight with Monster](/assets/img/projects/Lethe/4.png)*<center>Fight with Monster</center>*<br>
 

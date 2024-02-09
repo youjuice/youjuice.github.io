@@ -50,17 +50,17 @@ projects:
     startDate:   "2023-01-15"
     #endDate:     "2022-06-01"
     summary:     "Turn-Based RPG Card Game"
-    #url:         ""
+    url:         "https://youjuice.github.io/Projects/LETHE/"
   - title:       "Can I Debug My First Love?"
     startDate:   "2023-03-01"
     endDate:     "2023-06-20"
     summary:     "Romance Simulation Game"
-    url:         "https://ringed-postage-dfc.notion.site/bd0310e0f6ff48fba6bbde0a285c109a?pvs=4"
+    url:         "https://youjuice.github.io/Projects/CanIDebug/"
   - title:       "Half Time"
     startDate:   "2022-04-01"
     endDate:     "2022-06-01"
     summary:     "App Development Proposal"
-    url:         "https://ringed-postage-dfc.notion.site/HALF-TIME-f1b8e2965c20405b86f7edc228fd0082?pvs=4"
+    url:         "https://youjuice.github.io/Projects/HalfTime/"
     # highlights:
 awards:
 skills:
