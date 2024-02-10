@@ -8,7 +8,7 @@ layout:           post
 cover:            false
 sidebar:          false
 order:            0
-categories:       - studylog
+permalink:        /StudyLog/
 
 image:
   path:           /assets/img/posts/240207.png
