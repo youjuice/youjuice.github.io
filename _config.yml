@@ -75,13 +75,7 @@ defaults:
       sitemap:          false
   - scope:              # You can use the following to enable comments on all posts.
       path:             ""
-      type:             "studylog"
-    values:
-      comments:         true
-      applause_button:  true
-  - scope:              # You can use the following to enable comments on all posts.
-      path:             ""
-      type:             "devdiary"
+      type:             "posts"
     values:
       comments:         true
       applause_button:  true
@@ -93,10 +87,8 @@ defaults:
       applause_button:  true # https://applause-button.com/
 
 menu:
-  - title:             Study Log
-    url:               /studylog/
-  - title:             Dev Diary
-    url:               /devdiary/
+  - title:             Posts
+    url:               /Posts/
   - title:             Projects
     url:               /Projects/
   - title:             Resume
