@@ -8,7 +8,6 @@ layout:           post
 cover:            false
 sidebar:          false
 order:            0
-categories:       - studylog
 
 image:
   path:           /assets/img/posts/240207.png
@@ -24,7 +23,7 @@ description:      My first post!
 hide_description: true
 date:             2024-02-07 00:26:00
 featured:         false
-
+categories:       [studylog]
 tag:              General
 ---
 
