@@ -86,6 +86,7 @@ defaults:
       comments:         true
       applause_button:  true # https://applause-button.com/
 
+<<<<<<< HEAD
 # Add links to the sidebar.
 # ----------------------------------------------------------------------------------------
 menu:
@@ -103,6 +104,8 @@ menu:
   - title:             Resume
     url:               /Resume/
 
+=======
+>>>>>>> parent of bafd8cc (Submenu)
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
 comments:              # 'disqus' / 'giscus' / 'utterances' are available
@@ -142,7 +145,7 @@ hydejack:
   no_mark_external:   false                      # Set to `true` if you don't want to show an icon indicating external links
   no_push_state:      false                      # Set to `true` if third party plugins fail to work with dynamically loaded pages
   no_drawer:          false                      # Set to `true` if you want to disable the drawer
-  no_navbar:          true                      # Set to `true` if you don't to use the auto-hiding (JavaScript based) navbar.
+  no_navbar:          false                      # Set to `true` if you don't to use the auto-hiding (JavaScript based) navbar.
   no_search:          false                      # Set to true to disable the built-in search functionality.
   no_inline_css:      true                       # Set to `true` if you do not want parts of the css inlined in <head/>
   no_page_style:      false                      # Set to `true` if you don't intend on changing the accent color on a per-page basis.

@@ -148,17 +148,8 @@ hy-drawer.loaded .sidebar {
 .sidebar-about {
   padding-bottom:10%;
 }
-.spread-btn{
-  left: 7%;
-  position: absolute;
-  padding: 0;
-  padding-top: 5px;
-  border: none;
-  background: none;
-  color: white;
-  cursor: pointer;
-}
 
+<<<<<<< HEAD
 .spread-btn:hover{
   color: grey;
 }
@@ -183,6 +174,8 @@ hy-drawer.loaded .sidebar {
   }
 }
 
+=======
+>>>>>>> parent of bafd8cc (Submenu)
 .sidebar.invert .sidebar-about > a.sidebar-title{
   &::after { border-color: rgba(32, 32, 32, 0.2) }
   &:hover::after { border-color: #222 }
