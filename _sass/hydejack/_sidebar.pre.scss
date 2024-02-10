@@ -176,6 +176,7 @@ hy-drawer.loaded .sidebar {
     }
   }
 }
+
 .spread-btn{
   left: 7%;
   position: absolute;
@@ -210,6 +211,7 @@ hy-drawer.loaded .sidebar {
     display: block;
   }
 }
+
 .sidebar.invert .sidebar-about > a.sidebar-title{
   &::after { border-color: rgba(32, 32, 32, 0.2) }
   &:hover::after { border-color: #222 }

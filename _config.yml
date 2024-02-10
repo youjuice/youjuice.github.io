@@ -87,18 +87,17 @@ defaults:
       applause_button:  true # https://applause-button.com/
 
 # Add links to the sidebar.
+# ----------------------------------------------------------------------------------------
 menu:
   - title:             Projects
     url:               /Projects/
-  - title:             Posts
-    url:               /Posts/
+  - title:             Study
+    url:               /Study/
     submenu: 
-      - title:         Study
-        url:           /Study/
-      - title:         CodingTest
-        url:           /CodingTest/
+      - title:         Coding Test
+        url:           /Study/CodingTest/
       - title:         Dev-Diary
-        url:           /DevDiary/
+        url:           /Study/DevDiary/
   - title:             Resume
     url:               /Resume/
 
