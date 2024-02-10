@@ -20,7 +20,7 @@ image:
 title:            Study
 description:      
 hide_description: false
-permalink:        /Study/
+permalink:        Posts/Study/
 
 grouped:          true
 ---

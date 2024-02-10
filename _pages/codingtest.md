@@ -20,7 +20,7 @@ image:
 title:            Coding Test
 description:      
 hide_description: false
-permalink:        /Study/CodingTest
+permalink:        /Posts/CodingTest
 
 grouped:          true
 ---

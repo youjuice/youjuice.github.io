@@ -21,7 +21,7 @@ exclude:
   - node_modules
 
 lang:                 en-US
-timezone:             Europe/London
+timezone:             Asia/Seoul
 
 keywords:
   - MultiDomainX
@@ -91,13 +91,15 @@ defaults:
 menu:
   - title:             Projects
     url:               /Projects/
-  - title:             Study
-    url:               /Study/
+  - title:             Posts
+    url:               /Posts/
     submenu: 
+      - title:         Study
+        url:           /Posts/Study/
       - title:         Coding Test
-        url:           /Study/CodingTest/
+        url:           /Posts/CodingTest/
       - title:         Dev-Diary
-        url:           /Study/DevDiary/
+        url:           /Posts/DevDiary/
   - title:             Resume
     url:               /Resume/
 

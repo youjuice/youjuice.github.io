@@ -20,7 +20,7 @@ image:
 title:            Dev-Diary
 description:      
 hide_description: false
-permalink:        /Study/DevDiary
+permalink:        /Posts/DevDiary
 
 grouped:          true
 ---
