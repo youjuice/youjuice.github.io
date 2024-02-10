@@ -20,6 +20,7 @@ image:
 title:            Study Log
 description:      All the posts in blog.
 hide_description: false
+permalink:        /StudyLog/
 
 grouped:          true
 ---
