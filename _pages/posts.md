@@ -5,7 +5,7 @@ no_excerpt:       false
 hide_image:       false
 hide_title:       false
 
-layout:           blog
+layout:           posts
 cover:            false
 sidebar:          true
 order:            2
