@@ -1,8 +1,26 @@
 ---
-layout: list
-title:  Study Log
-slug:   studylog
-description: >
-  Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme.
-  It's based on [Poole](http://getpoole.com), the Jekyll butler.
+last_modified_at: 2023-05-15
+no_link_title:    false 
+no_excerpt:       false 
+hide_image:       false
+hide_title:       false
+
+layout:           blog
+cover:            false
+sidebar:          true
+order:            2
+
+image:
+  path:           /assets/img/posts/banner.png
+  srcset:
+    1920w:        /assets/img/posts/banner@1x.png
+    960w:         /assets/img/posts/banner@0,5x.png
+    480w:         /assets/img/posts/banner@0,25x.png
+
+title:            Study Log
+description:      All the posts in blog.
+hide_description: false
+permalink:        /StudyLog/
+
+grouped:          true
 ---
