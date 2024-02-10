@@ -94,7 +94,7 @@ defaults:
 
 menu:
   - title:             Study Log
-    url:               /StudyLog/
+    url:               /studylog/
   - title:             Dev Diary
     url:               /DevDiary/
   - title:             Projects
