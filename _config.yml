@@ -156,7 +156,7 @@ hydejack:
   cookies_banner:     true                       # When using Google Analytics, set to `true` to display a cookie notice banner.
   advertise:          false                      # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   hide_dates:         false
-  hide_last_modified: false
+  hide_last_modified: true
   dark_mode:
     always:           false                      # Set to `true` to always use the dark theme.
     dynamic:          true                       # Set to `true` to use the dark theme based on visitors' preference (OS setting).
