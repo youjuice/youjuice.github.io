@@ -233,3 +233,5 @@ compress_html:
     endings:          all
 sass:
     style:            compressed
+
+future:               true
