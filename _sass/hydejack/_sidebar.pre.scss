@@ -139,6 +139,15 @@ hy-drawer.loaded .sidebar {
   }
 }
 
+// <<<<< INLINE
+.sidebar-sticky {
+  position: relative;
+  z-index: 3;
+  max-width: $sidebar-width;
+  padding: 1.5rem;
+  contain: content;
+}
+
 .sidebar-about {
   .avatar {
     margin-bottom: 1.5rem
