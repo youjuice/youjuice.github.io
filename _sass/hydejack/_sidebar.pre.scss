@@ -141,6 +141,7 @@ hy-drawer.loaded .sidebar {
 
 // <<<<< INLINE
 .sidebar-sticky {
+<<<<<<< HEAD
   height: 100%;
   padding-top: 5%;
   position: absolute;
@@ -175,6 +176,44 @@ hy-drawer.loaded .sidebar {
 }
 
 =======
+>>>>>>> parent of bafd8cc (Submenu)
+=======
+  position: relative;
+  z-index: 3;
+  max-width: $sidebar-width;
+  padding: 1.5rem;
+  contain: content;
+}
+
+.sidebar-about {
+  .avatar {
+    margin-bottom: 1.5rem
+  }
+
+  > a.sidebar-title {
+    text-decoration: none;
+    > h2 {
+      margin: 0;
+      padding-bottom: .5rem;
+    }
+
+    &::after {
+      content: '';
+      display: block;
+      border-bottom: 2px solid;
+      margin: 0 auto .5rem;
+      width: 4rem;
+      border-color: rgba(255, 255, 255, 0.2);
+      transition: border-color 250ms;
+    }
+
+    &:hover::after {
+      border-color: rgba(255, 255, 255, 1);
+      transition: border-color 50ms;
+    }
+  }
+}
+
 >>>>>>> parent of bafd8cc (Submenu)
 .sidebar.invert .sidebar-about > a.sidebar-title{
   &::after { border-color: rgba(32, 32, 32, 0.2) }

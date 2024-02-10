@@ -87,6 +87,7 @@ defaults:
       applause_button:  true # https://applause-button.com/
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Add links to the sidebar.
 # ----------------------------------------------------------------------------------------
 menu:
@@ -104,6 +105,8 @@ menu:
   - title:             Resume
     url:               /Resume/
 
+=======
+>>>>>>> parent of bafd8cc (Submenu)
 =======
 >>>>>>> parent of bafd8cc (Submenu)
 # 3rd Party Integrations
