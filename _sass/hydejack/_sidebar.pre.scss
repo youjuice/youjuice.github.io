@@ -139,52 +139,6 @@ hy-drawer.loaded .sidebar {
   }
 }
 
-// <<<<< INLINE
-.sidebar-sticky {
-<<<<<<< HEAD
-  height: 100%;
-  padding-top: 5%;
-  position: absolute;
-}
-.sidebar-about {
-  padding-bottom:10%;
-}
-
-<<<<<<< HEAD
-.spread-btn:hover{
-  color: grey;
-}
-
-.menu-wrapper{
-  display: flex;
-  text-align: left;
-  margin-left: 10%;
-  margin-bottom: 0%;
-  
-  input[type=checkbox]{
-    display: none;
-  }
-  
-  input[type=checkbox] ~ ul{
-    display: none;
-    list-style: none;
-  }
-  
-  input[type=checkbox]:checked ~ ul{
-    display: block;
-  }
-}
-
-=======
->>>>>>> parent of bafd8cc (Submenu)
-=======
-  position: relative;
-  z-index: 3;
-  max-width: $sidebar-width;
-  padding: 1.5rem;
-  contain: content;
-}
-
 .sidebar-about {
   .avatar {
     margin-bottom: 1.5rem
@@ -214,7 +168,6 @@ hy-drawer.loaded .sidebar {
   }
 }
 
->>>>>>> parent of bafd8cc (Submenu)
 .sidebar.invert .sidebar-about > a.sidebar-title{
   &::after { border-color: rgba(32, 32, 32, 0.2) }
   &:hover::after { border-color: #222 }

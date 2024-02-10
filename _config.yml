@@ -86,29 +86,6 @@ defaults:
       comments:         true
       applause_button:  true # https://applause-button.com/
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Add links to the sidebar.
-# ----------------------------------------------------------------------------------------
-menu:
-  - title:             Projects
-    url:               /Projects/
-  - title:             Posts
-    url:               /Posts/
-    submenu: 
-      - title:         Study
-        url:           /Posts/Study/
-      - title:         Coding Test
-        url:           /Posts/CodingTest/
-      - title:         Dev-Diary
-        url:           /Posts/DevDiary/
-  - title:             Resume
-    url:               /Resume/
-
-=======
->>>>>>> parent of bafd8cc (Submenu)
-=======
->>>>>>> parent of bafd8cc (Submenu)
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
 comments:              # 'disqus' / 'giscus' / 'utterances' are available
