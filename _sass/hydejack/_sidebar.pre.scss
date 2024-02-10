@@ -178,14 +178,15 @@ hy-drawer.loaded .sidebar {
 }
 
 .spread-btn{
-  left: 7%;
+  right: 15%;
   position: absolute;
   padding: 0;
-  padding-top: 5px;
+  padding-top: 2px;
   border: none;
   background: none;
   color: white;
   cursor: pointer;
+  z-index: 1;
 }
 
 .spread-btn:hover{
@@ -193,10 +194,8 @@ hy-drawer.loaded .sidebar {
 }
 
 .menu-wrapper{
-  display: flex;
   text-align: left;
-  margin-left: 10%;
-  margin-bottom: 0%;
+  margin-left: 30%;
   
   input[type=checkbox]{
     display: none;
