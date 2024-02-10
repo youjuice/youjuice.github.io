@@ -21,7 +21,7 @@ exclude:
   - node_modules
 
 lang:                 en-US
-timezone:             Europe/London
+timezone:             Asia/Seoul
 
 keywords:
   - MultiDomainX
@@ -75,9 +75,9 @@ defaults:
       sitemap:          false
   - scope:              # You can use the following to enable comments on all posts.
       path:             ""
-      type:             posts
+      type:             "posts"
     values:
-      comments:          true
+      comments:         true
       applause_button:  true
   - scope:              # You can use the following to enable comments on all projects.
       path:             ""
@@ -86,6 +86,14 @@ defaults:
       comments:         true
       applause_button:  true # https://applause-button.com/
 
+menu:
+  - title:             Posts
+    url:               /Posts/
+  - title:             Projects
+    url:               /Projects/
+  - title:             Resume
+    url:               /Resume/
+  
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
 comments:              # 'disqus' / 'giscus' / 'utterances' are available
@@ -149,7 +157,7 @@ hydejack:
     enabled:          true
     cache_version:    13
     precache_assets:
-      # - /assets/img/swipe.svg
+      - /assets/img/swipe.svg
       - /assets/img/siebar/sidebar-bg.png
       - /assets/img/offline/banner.png
       - /assets/img/offline/banner@1x.png
@@ -160,6 +168,12 @@ hydejack:
 # Collections
 # ----------------------------------------------------------------------------------------
 collections:
+  featured_categories:
+    permalink:        /:name/
+    output:           true
+  featured_tags:
+    permalink:        /tag-:name/
+    output:           true
   policies:
     output:           true
     permalink:        /Policies/:title/
