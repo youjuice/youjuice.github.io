@@ -8,7 +8,7 @@ hide_title:       false
 layout:           posts
 cover:            false
 sidebar:          true
-order:            2
+order:            3
 
 image:
   path:           /assets/img/posts/banner.png
@@ -17,10 +17,10 @@ image:
     960w:         /assets/img/posts/banner@0,5x.png
     480w:         /assets/img/posts/banner@0,25x.png
 
-title:            Posts
+title:            Dev Diary
 description:      All the posts in blog.
 hide_description: false
-permalink:        /Posts/
+permalink:        /DevDiary/
 
 grouped:          true
 ---
