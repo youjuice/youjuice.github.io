@@ -94,6 +94,8 @@ menu:
   - title:             Resume
     url:               /Resume/
   
+published:             true
+
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
 comments:              # 'disqus' / 'giscus' / 'utterances' are available
