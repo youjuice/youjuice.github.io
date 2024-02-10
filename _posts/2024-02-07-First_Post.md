@@ -9,7 +9,6 @@ cover:            false
 sidebar:          false
 order:            0
 categories:       - studylog
-permalink:        /StudyLog/first_post/
 
 image:
   path:           /assets/img/posts/240207.png

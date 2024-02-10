@@ -1,6 +1,6 @@
 ---
 layout: list
 title:  Study Log
-slug:   studylog
+slug:   StudyLog
 description: All web based projects i have done so far
 ---
