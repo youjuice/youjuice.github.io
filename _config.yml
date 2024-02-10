@@ -176,6 +176,12 @@ hydejack:
 # Collections
 # ----------------------------------------------------------------------------------------
 collections:
+  featured_categories:
+    permalink:        /:name/
+    output:           true
+  featured_tags:
+    permalink:        /tag-:name/
+    output:           true
   policies:
     output:           true
     permalink:        /Policies/:title/
