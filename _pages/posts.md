@@ -19,11 +19,11 @@ image:
 title:            Posts
 description:      All the posts in blog.
 hide_description: false
-permalink:        /Posts/
 
 pagination:
   enabled:        true
   permalink:      /Posts/page:num/
+  description:    All the posts in blog.
 
 grouped:          true
 ---
