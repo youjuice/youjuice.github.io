@@ -17,6 +17,9 @@ image:
     960w:         /assets/img/posts/banner@0,5x.png
     480w:         /assets/img/posts/banner@0,25x.png
 
+title:            Study Log
+description:      All the posts in blog.
+hide_description: false
 permalink:        /studylog/
 
 grouped:          true
