@@ -20,7 +20,7 @@ image:
 title:            Posts
 description:      All the posts in blog.
 hide_description: false
-permalink:        /Posts/
+#permalink:        /Posts/
 
 grouped:          true
 ---
