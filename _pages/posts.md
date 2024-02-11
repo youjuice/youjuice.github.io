@@ -23,7 +23,6 @@ hide_description: false
 pagination:
   enabled:        true
   permalink:      /Posts/page:num/
-  description:    All the posts in blog.
 
 grouped:          true
 ---
