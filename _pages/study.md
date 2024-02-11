@@ -18,7 +18,6 @@ image:
     480w:         /assets/img/posts/banner@0,25x.png
 
 title:            Study
-description:      All the posts in blog.
 hide_description: false
 permalink:        /study/
 
