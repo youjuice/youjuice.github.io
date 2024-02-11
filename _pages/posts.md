@@ -7,8 +7,8 @@ hide_title:       false
 
 layout:           blog
 cover:            false
-sidebar:          true
-order:            1
+sidebar:          false
+
 
 image:
   path:           /assets/img/posts/banner.png
