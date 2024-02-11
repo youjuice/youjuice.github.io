@@ -3,5 +3,5 @@ layout: list
 title:  Study
 slug:   study
 menu:   true
-description: Hello, World!!
+description: To become a better developer...
 ---
