@@ -20,7 +20,7 @@ exclude:
   - Gemfile.lock
   - node_modules
 
-lang:                 en-US
+lang:                 en-US, ko-KR
 timezone:             Asia/Seoul
 
 keywords:
@@ -85,12 +85,17 @@ defaults:
     values:
       comments:         true
       applause_button:  true # https://applause-button.com/
+  - scope:
+      type:             featured_tags
+    values:
+      seo:              
+      type:             WebPage
 
 menu:
   - title:             Posts
     url:               /Posts/
   - title:             Study Log
-    url:               "https://youjuice.github.io/studylog/"
+    url:               /studylog/
   - title:             Dev Diary
     url:               /devdiary/
   - title:             Projects
@@ -241,3 +246,8 @@ sass:
     style:            compressed
 
 future:               true
+
+feed:
+  categories:
+    - devdiary
+    - studylog
