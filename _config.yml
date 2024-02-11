@@ -90,7 +90,7 @@ menu:
   - title:             Posts
     url:               /Posts/
   - title:             Study Log
-    url:               /studylog/
+    url:               "https://youjuice.github.io/studylog/"
   - title:             Dev Diary
     url:               /devdiary/
   - title:             Projects
