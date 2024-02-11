@@ -23,7 +23,7 @@ description:      My first post!
 hide_description: true
 date:             2024-02-07 00:26:00
 featured:         false
-categories:       [studylog]
+categories:       [study]
 #tag:              General
 ---
 
