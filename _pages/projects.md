@@ -8,7 +8,7 @@ hide_title:       false
 layout:           projects
 cover:            false
 sidebar:          true
-order:            1
+order:            4
 
 image:
   path:           /assets/img/projects/banner.png

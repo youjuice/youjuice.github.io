@@ -5,10 +5,10 @@ no_excerpt:       false
 hide_image:       false
 hide_title:       false
 
-layout:           blog
+layout:           list
 cover:            false
 sidebar:          true
-order:            1
+order:            3
 
 image:
   path:           /assets/img/posts/banner.png
@@ -17,10 +17,10 @@ image:
     960w:         /assets/img/posts/banner@0,5x.png
     480w:         /assets/img/posts/banner@0,25x.png
 
-title:            Posts
+title:            Dev Diary
 description:      All the posts in blog.
 hide_description: false
-permalink:        /Posts/
+permalink:        /devdiary/
 
 grouped:          true
 ---
