@@ -9,7 +9,6 @@ layout:           blog
 cover:            false
 sidebar:          false
 
-
 image:
   path:           /assets/img/posts/banner.png
   srcset:
@@ -20,6 +19,7 @@ image:
 title:            Posts
 description:      All the posts in blog.
 hide_description: false
+
 pagination:
   enabled:        true
   permalink:      /Posts/page:num/
