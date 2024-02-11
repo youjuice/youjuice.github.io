@@ -246,8 +246,3 @@ sass:
     style:            compressed
 
 future:               true
-
-feed:
-  categories:
-    - devdiary
-    - studylog
