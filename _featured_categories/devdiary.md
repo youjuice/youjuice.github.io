@@ -2,5 +2,5 @@
 layout: list
 title:  Dev Diary
 slug:   devdiary
-description: Records of my project
+description: Record of project experiences
 ---

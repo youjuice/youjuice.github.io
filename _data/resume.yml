@@ -6,7 +6,10 @@ basics:
   # phone: "+82 10 8830 9742"
   website: "https://youjuice.github.io/"
   summary: |
-    I'm a talking potato.
+    Hello! I'm a curious developer, Yujuʕتʔ. 
+    I'm currently exploring various tech stacks to broaden my skill set. 
+    And I actively improving my abilities through continuous learning and project experiences. 
+    I also enjoy collaborating with different developers to enhance teamwork and communication skills.
   location:
     city: "Seoul"
     countryCode: "KR"
@@ -30,9 +33,6 @@ volunteer:
 education:
   - certificate: "KRAFTON JUNGLE"
     date:        "Mar 2024 - Aug 2024"
-  - institution: "KRAFTON JUNGLE"
-    startDate:   "2024-03-18"
-    endDate:     "2024-08-01"
   - institution: "Sangmyung University, Seoul, Korea"
     studyType:   "B.S."
     area:        "Game Engineering"
