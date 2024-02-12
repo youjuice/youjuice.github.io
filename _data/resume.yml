@@ -21,6 +21,7 @@ basics:
     # - network: "Email"
       # username: "yooju000326@gmail.com"
       # url: "mailto:yooju000326@gmail.com"
+
 work:
   - company:     "Part-time Math Instructor"
     position:    ""
@@ -29,7 +30,9 @@ work:
     endDate:     "2022-07-01"
     summary:     "Teaching Calculus for High School Students"
     highlights:
+
 volunteer:
+
 education:
   - certificate: "KRAFTON JUNGLE"
     date:        "Mar 2024 - Aug 2024"
@@ -86,12 +89,13 @@ skills:
     keywords:
       - Blender
       - Adobe After Effects
-      - R
+
 languages:
   - language: "Korean"
     fluency:  "Native speaker"
   - language: "English"
     fluency:  2-5 
+
 interests:
   - name: "Music"
     keywords:
@@ -102,6 +106,7 @@ interests:
     keywords:
       - New York
       - Las Vegas
+
 # references:
   # - name: ""
     # reference: >
