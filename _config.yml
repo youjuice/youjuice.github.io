@@ -31,7 +31,7 @@ author:               # This should be the same author as first entry in `_data/
   email:              yooju000326@gmail.com
   about:              "Software Developer"
   picture:
-    path:             /assets/img/yuju.png
+    path:             /assets/img/users/home_yuju.png
   social:
     github:           youjuice
     twitter:          
