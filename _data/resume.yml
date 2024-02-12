@@ -36,8 +36,9 @@ education:
     area:        "Game Engineering"
     startDate:   "2020-03-01"
     endDate:     "2024-02-01"
-  # - certificate: "Diploma of Motor Vehicle Service, Diagnostics and Repair"
-    # date:        "2021"
+  - certificate: "KRAFTON JUNGLE"
+    startDate:   "2024-03-18"
+    endDate:     "2024-08-01"
 projects:
   - title:       "LETHE"
     startDate:   "2023-01-15"
@@ -58,11 +59,11 @@ projects:
 
 awards:
   - title:       "1st Prize"
-    date:        "2022-11-20"
-    awarder:     "SMU SW Entrepreneurship Idea Contest 2022"
-  - title:       "1st Prize"
     date:        "2023-11-28"
     awarder:     "SMU SW Entrepreneurship Idea Contest 2023"
+  - title:       "1st Prize"
+    date:        "2022-11-20"
+    awarder:     "SMU SW Entrepreneurship Idea Contest 2022"
     
 skills:
   - name:  "Game development"
