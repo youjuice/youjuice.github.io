@@ -36,9 +36,8 @@ education:
     area:        "Game Engineering"
     startDate:   "2020-03-01"
     endDate:     "2024-02-01"
-  - certificate: "KRAFTON JUNGLE"
-    startDate:   "2024-03-18"
-    endDate:     "2024-08-01"
+  # - certificate: "Diploma of Motor Vehicle Service, Diagnostics and Repair"
+    # date:        "2021"
 projects:
   - title:       "LETHE"
     startDate:   "2023-01-15"
