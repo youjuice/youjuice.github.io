@@ -36,10 +36,12 @@ work:
 volunteer:
 education:
   - institution: "Sangmyung University, Seoul, Korea"
-    studyType:   "Bachelor of Game Engineering"
+    studyType:   "Bachelor of Engineering"
     startDate:   "2020-03-01"
     endDate:     "2024-02-01"
-    # courses:
+    courses:
+      - Major in Game Engineering
+      - Multidisciplinary Major in Game Animation AI
   - institution: "Mokdong High School, Seoul, Korea"
     startDate:   "2016-03-01"
     endDate:     "2019-02-01"
