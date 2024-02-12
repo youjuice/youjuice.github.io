@@ -38,7 +38,7 @@ education:
     area:        "Game Engineering"
     startDate:   "2020-03-01"
     endDate:     "2024-02-01"
-    courses:     "<i>Multidisciplinary Major</i> in <b>Game Animation AI</b>"
+    courses:     "<b>Multidisciplinary Major</b> in <b>Game Animation AI</b>"
   
 projects:
   - title:       "LETHE"
