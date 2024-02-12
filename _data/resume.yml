@@ -36,12 +36,10 @@ work:
 volunteer:
 education:
   - institution: "Sangmyung University, Seoul, Korea"
-    studyType:   "B.S in Game Engineering"
+    studyType:   "B.S"
+    area:        "Game Engineering"
     startDate:   "2020-03-01"
     endDate:     "2024-02-01"
-  - institution: "Mokdong High School, Seoul, Korea"
-    startDate:   "2016-03-01"
-    endDate:     "2019-02-01"
   # - certificate: "Diploma of Motor Vehicle Service, Diagnostics and Repair"
     # date:        "2021"
 projects:
@@ -61,16 +59,24 @@ projects:
     summary:     "App Development Proposal"
     url:         "https://youjuice.github.io/Projects/HalfTime/"
     # highlights:
+
 awards:
+  - title:       "Grand Prize"
+    date:        "2022-11-20"
+    awarder:     "SMU SW Entrepreneurship Idea Contest 2022"
+  - title:       "Grand Prize"
+    date:        "2023-11-28"
+    awarder:     "SMU SW Entrepreneurship Idea Contest 2023"
+    
 skills:
   - name:  "Game development"
-    level: "Amateur"
+    level: "2-3"
     keywords:
       - C
       - C++
       - Unreal Engine
   - name:  "Web development"
-    level: "Amateur"
+    level: "1-3"
     keywords:
       - HTML
       - CSS
