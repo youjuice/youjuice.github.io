@@ -36,7 +36,7 @@ work:
 volunteer:
 education:
   - institution: "Sangmyung University, Seoul, Korea"
-    studyType:   "B.S"
+    studyType:   "B.S."
     area:        "Game Engineering"
     startDate:   "2020-03-01"
     endDate:     "2024-02-01"
