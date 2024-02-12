@@ -19,22 +19,18 @@ basics:
       # username: "yooju000326@gmail.com"
       # url: "mailto:yooju000326@gmail.com"
 work:
-  - company:     "KRAFTON JUNGLE"
-    position:    ""
-    website:     ""
-    startDate:   "2024-03-18"
-    endDate:     "2024-08-01"
-    summary:     ""
-    highlights:
   - company:     "Part-time Math Instructor"
     position:    ""
     website:     ""
     startDate:   "2021-07-01"
-    endDate:     "2022-05-01"
-    summary:     ""
+    endDate:     "2022-07-01"
+    summary:     "Teaching Calculus for High School Students"
     highlights:
 volunteer:
 education:
+  - institution: "KRAFTON JUNGLE"
+    startDate:   "2024-03-18"
+    endDate:     "2024-08-01"
   - institution: "Sangmyung University, Seoul, Korea"
     studyType:   "B.S."
     area:        "Game Engineering"
