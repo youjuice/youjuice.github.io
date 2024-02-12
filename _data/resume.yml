@@ -61,9 +61,11 @@ awards:
   - title:       "1st Prize"
     date:        "2023-11-28"
     awarder:     "SMU SW Entrepreneurship Idea Contest 2023"
+    summary:     "LETHE by TEAM Blue"
   - title:       "1st Prize"
     date:        "2022-11-20"
     awarder:     "SMU SW Entrepreneurship Idea Contest 2022"
+    summary:     "Half Time by TEAM 92"
     
 skills:
   - name:  "Game development"
