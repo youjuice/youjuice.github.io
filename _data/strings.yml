@@ -128,7 +128,7 @@ resume:
   volunteer:           Volunteer
   volunteer_title:     <!--position--> at <!--organization-->
   education:           Education
-  education_title:     <!--institution-->{% if edu.area.size > 0 %} <br><!--study_type--> in <!--area-->{% end if %}
+  education_title:     <!--institution--><br><!--study_type--> in <!--area-->
   certificate_title:   <!--certificate-->
   projects:            Projects
   projects_title:      "<!--title-->: <!--date-->"
