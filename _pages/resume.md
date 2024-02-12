@@ -26,10 +26,10 @@ left_column:
  - work
  - education
  - projects
- - awards
  - publications
  - references
 right_column:
+ - awards
  - volunteer
  - languages
  - skills
