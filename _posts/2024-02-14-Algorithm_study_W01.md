@@ -84,7 +84,7 @@ print(count)
 
 #### Solution
 
-##### ✔ def `group_checker`
+**✔ def `group_checker`**
 
 aaabbaa처럼 이미 그룹이 끝난 문자열 이후에 중복된 문자가 나올 것을 효과적으로 판별하기 위해 
 중복된 원소를 허용하지 않는 `set()`을 활용했다. 
@@ -148,7 +148,8 @@ print(prime_count)
 `is_prime` 함수를 만들어서 소수인지 판별하여 True, False값을 반환하도록 하였다.
 또한 함수 내에 1은 따로 **False**값을 지정하였다.
 
-##### ✔`map(int, input().split())`
+**✔`map(int, input().split())`**
+
 백준 알고리즘 풀이를 하면서 가장 유용하게 쓴 함수이다.
 
 - `input()`: 사용자로부터 입력 받음
@@ -279,7 +280,8 @@ print(*volume_count_list)       # 언패킹 (unpacking)
 
 이 문제에서는 각 사람의 키와 몸무게 정보를 튜플로 묶어서 리스트에 넣는 방식으로 입력값을 저장했다.
 
-##### ✔ 튜플과 리스트 (Tuple & List)
+**✔ 튜플과 리스트 (Tuple & List)**
+
 > - 데이터 쌍을 표현하는 방식에는 튜플과 리스트가 있는데 이 둘은 **불변성**에 따라 나뉜다.
 > - **튜플**은 **불변**하므로 한 번 생성된 후에는 변경할 수 없다.<br>
   ex. `[(1, 'apple'), (2, 'banana'), (3, 'orange')]`
@@ -289,7 +291,8 @@ print(*volume_count_list)       # 언패킹 (unpacking)
 만약 자신보다 덩치가 큰 사람의 데이터가 있다면 `volume_count`를 1씩 더해 본인의 등수를 반환하도록 `volume`함수를 만들었다.
 그리고 순위를 리스트에 저장한 다음 **언패킹(unpacking)** 한 데이터를 출력하도록 하였다.
 
-> ✔ **언패킹 (unpacking)** 이란? <br>
+✔ **언패킹 (unpacking)** 이란?
+
 > 리스트, 튜플, 세트 등과 같은 **iterable 객체**에서 사용 할 수 있으며, * 연산자를 사용함.
 
 ---
