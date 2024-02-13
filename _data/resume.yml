@@ -34,9 +34,8 @@ work:
 volunteer:
 
 education:
-  - institution: "KRAFTON JUNGLE"
-    startDate:   "2024-03-18"
-    endDate:     "2024-08-01"
+  - certificate: "KRAFTON JUNGLE"
+    date:        "Mar 2024 - Aug 2024"
   - institution: "Sangmyung University, Seoul, Korea"
     studyType:   "B.S."
     area:        "Game Engineering"
