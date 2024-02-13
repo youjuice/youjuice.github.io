@@ -18,7 +18,7 @@ hide_description: true
 date:             2024-02-13 22:31:00
 featured:         false
 categories:       [study]
-tag:              [Algorithm, Python]
+tag:              [algorithm, python]
 ---
 
 ## [Before JUNGLE] 1주차 알고리즘 스터디
