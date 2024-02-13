@@ -11,7 +11,11 @@ sidebar:          false
 order:            0
 
 image:
-  path:           /assets/img/home/banner.png
+  path:           /assets/img/banner/banner.png
+  srcset:
+    1920w:        /assets/img/banner/banner.png
+    960w:         /assets/img/banner/banner.png
+    480w:         /assets/img/banner/banner.png
 
 title:            ₍ᐢ•ﻌ•ᐢ₎*･ﾟ｡☆
 description:      Yuju's Dev Diary

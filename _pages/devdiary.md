@@ -11,8 +11,11 @@ sidebar:          true
 order:            3
 
 image:
-  path:           /assets/img/posts/banner.png
-
+  path:           /assets/img/banner/banner.png
+  srcset:
+    1920w:        /assets/img/banner/banner.png
+    960w:         /assets/img/banner/banner.png
+    480w:         /assets/img/banner/banner.png
 title:            Dev Diary
 hide_description: false
 permalink:        /devdiary/

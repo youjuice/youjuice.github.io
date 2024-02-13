@@ -11,11 +11,11 @@ sidebar:          false
 order:            1
 
 image:
-  path:           /assets/img/tags/banner.png
+  path:           /assets/img/banner/banner.png
   srcset:
-    1920w:        /assets/img/tags/banner@1x.png
-    960w:         /assets/img/tags/banner@0,5x.png
-    480w:         /assets/img/tags/banner@0,25x.png
+    1920w:        /assets/img/banner/banner.png
+    960w:         /assets/img/banner/banner.png
+    480w:         /assets/img/banner/banner.png
 
 title:            Tags
 description:      List of all categories & tags of the blog.
