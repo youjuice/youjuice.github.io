@@ -36,6 +36,7 @@
           | replace:"<!--area-->", area
           | replace:"<!--institution-->", institution
           | replace:"<!--gpa-->", gpa
+          | remove: '}}'
         }}
       </h3>
       {% endif %}
