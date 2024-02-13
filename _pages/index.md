@@ -12,10 +12,6 @@ order:            0
 
 image:
   path:           /assets/img/home/banner.png
-  srcset:
-    1920w:        /assets/img/home/banner.png
-    960w:         /assets/img/home/banner.png
-    480w:         /assets/img/home/banner.png
 
 title:            ₍ᐢ•ﻌ•ᐢ₎*･ﾟ｡☆
 description:      Yuju's Dev Diary
