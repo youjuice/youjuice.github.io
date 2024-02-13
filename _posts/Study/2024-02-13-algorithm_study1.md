@@ -10,10 +10,12 @@ sidebar:          false
 order:            0
 
 caption:          
+toc:              true
+toc_sticky:       true
 
 title:            [Before JUNGLE] 1주차 알고리즘 스터디
 hide_title:       false
-description:      백준 알고리즘_파이썬
+description:      백준 알고리즘_Python
 hide_description: true
 date:             2024-02-13 22:31:00
 featured:         false
