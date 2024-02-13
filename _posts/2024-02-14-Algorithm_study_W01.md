@@ -150,7 +150,7 @@ print(prime_count)
 
 - `input()`: 사용자로부터 입력 받음
 - `input().split()`: 사용자의 입력을 공백을 기준으로 나눠 리스트로 변환
-- `map()`: 
+- `map()`: `map(function, iterable, ...)` 형태로 사용하며 모든 iterable의 각 요소에 대해 함수를 적용
 - `map(int, input().split())`: 리스트의 각 요소를 정수로 변환
 
 ✘ `int()` 함수는 문자열을 정수로 변환할 수 있지만, 리스트 전체에는 적용되지 않는다. <br>
