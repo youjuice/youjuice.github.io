@@ -24,7 +24,7 @@ hide_description: true
 date:             2024-02-07 00:26:00
 featured:         false
 categories:       [study]
-#tag:              General
+tag:              [algorithm]
 ---
 
 ## Welcome 
