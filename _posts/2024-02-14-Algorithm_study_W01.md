@@ -8,6 +8,8 @@ layout:           post
 cover:            false
 sidebar:          false
 order:            0      
+toc:              true
+toc_sticky:       true
 
 title:            Before JUNGLE_1주차 알고리즘 스터디
 hide_title:       false
@@ -20,8 +22,6 @@ tag:              [algorithm, python]
 ---
 
 ## [Before JUNGLE] 1주차 알고리즘 스터디
-
-{:toc}
 
 ### [#1316 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
 
