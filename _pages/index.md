@@ -25,7 +25,6 @@ permalink:        /
 posts_page:       /Posts/
 selected_posts:
   - _posts/2024-02-07-First_Post.md
-  - _posts/2024-02-11-Test.md
 projects_page:    /Projects/
 selected_projects: # MAX 4
   - _projects/HalfTime.md
