@@ -1,9 +1,9 @@
 author1:
   name:                Yuju
   email:               yooju000326@gmail.com
-  about:               ""
+  about:               "Hi! I'm Yuju.<br>Pleaseh check my [Resume](/Resume/) if you wish to know more about me."
   picture:
-    path:              /assets/img/yuju.png
+    path:              /assets/img/users/home_yuju.png
   social:
     github:            youjuice
     email:             yooju000326@gmail.com
