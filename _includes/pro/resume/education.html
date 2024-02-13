@@ -20,6 +20,18 @@
         }}
       </h3>
       {% else %}
+      {% if edu.bootcamp %}
+      <p class="faded">
+        {% include components/from-to.html from=edu.startDate to=edu.endDate format=from_to_format %}
+      </p>
+      <h3 class="h4 faded">
+        {% capture bootcamp %}<span class="bc">{{ edu.bootcamp }}</span>{% endcapture %}
+        {{ strings.resume.bootcamp
+          | default:"<!--bootcamp-->"
+          | replace:"<!--bootcamp-->", bootcamp
+        }}
+      </h3>
+      {% else %}
       {% if edu.startDate.size > 0 %}
         <p class="faded">
           {% include components/from-to.html from=edu.startDate to=edu.endDate format=from_to_format %}

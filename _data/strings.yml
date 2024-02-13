@@ -130,6 +130,7 @@ resume:
   education:           Education
   education_title:     <!--institution--><br><!--study_type--> in <!--area-->
   certificate_title:   <!--certificate-->
+  bootcamp_title:      <!--bootcamp-->
   projects:            Projects
   projects_title:      "<!--title-->: <!--date-->"
   courses:             Courses
