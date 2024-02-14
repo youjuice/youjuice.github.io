@@ -165,7 +165,7 @@ print(prime_count)
 
 ---
 
-### [#2798 소수 찾기](https://www.acmicpc.net/problem/2798)
+### [#2798 블랙잭](https://www.acmicpc.net/problem/2798)
 
 > **문제**
 
