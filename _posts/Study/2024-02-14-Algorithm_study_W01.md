@@ -15,7 +15,7 @@ image:
 
 title:            Before JUNGLE_1주차 알고리즘 스터디
 hide_title:       false
-description:      백준_Python 1316, 1978, 2798, 7568, 10870 
+description:      백준 알고리즘_Python
 hide_description: true
 date:             2024-02-14 04:00:00
 featured:         false
