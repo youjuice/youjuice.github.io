@@ -24,7 +24,7 @@ permalink:        /
 
 posts_page:       /Posts/
 selected_posts:
-  - _posts/Study/2024-02-07-First_Post.md
+  - _posts/Study/2024-02-14-Baekjoon_1316.md
 projects_page:    /Projects/
 selected_projects: # MAX 4
   - _projects/HalfTime.md
