@@ -47,7 +47,7 @@ legal:                # Add links to the footer. Typically you'll want to link t
   - title:            Cookies Policy
     url:              /Policies/Cookies/
 
-paginate:             20
+paginate:             10
 paginate_path:        "/Posts/page:num/"
 excerpt_separator:    <!--more-->
 
