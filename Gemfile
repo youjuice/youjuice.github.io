@@ -7,7 +7,6 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.3.3"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -33,12 +32,12 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "github-pages", "~> 214", ">= 214.0.0"
 
 group :jekyll_plugins do
-  gem "jekyll", "~> 4.3.3"
+  gem "jekyll", "3.9.0"
   gem "jekyll-readme-index"
-  gem "jekyll-avatar", "~> 0.8.0"
+  gem "jekyll-avatar", "~> 0.7.0"
   gem "jekyll-default-layout"
   gem "jekyll-optional-front-matter"
-  gem "jekyll-paginate"
+  gem "jekyll-paginate-v2"
   gem "jekyll-redirect-from"
   gem "jekyll-relative-links"
   gem "jekyll-sitemap"
