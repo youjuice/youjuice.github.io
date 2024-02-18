@@ -1,5 +1,5 @@
 ---
 layout: list
 title:  Python
-description: Hello, World!
+description: About Python
 ---
