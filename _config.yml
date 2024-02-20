@@ -126,9 +126,11 @@ kramdown:
   math_engine_opts:    {}
   footnote_backlink:   '&#x21a9;&#xfe0e;'
 
+google_analytics:     G-TN4TM6R851
+
 google_search_console:
   enabled:            true
-  tag:                UA-68290006-3 # UA-xxxxxxxx-x
+  tag:                UA-303155355-1 # UA-xxxxxxxx-x
 lightbox:
   enabled:            true
 tinyletter:
