@@ -28,15 +28,7 @@ I'm **Yuju**.
 
 Please check my [Resume](/Resume/) if you wish to know more about me.
 
-***
-
 Blog created by Yuju on February 2. 2024,<br>
 based on the jekyll theme [Hydejack].
 
 ***
-
-<!--author-->
-
-<!-- Links -->
-[resume]: /resume/
-[Hydejack]: https://hydejack.com
