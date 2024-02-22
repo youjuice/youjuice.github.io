@@ -7,7 +7,7 @@ hide_title:       false
 
 layout:           tags
 cover:            false
-sidebar:          false
+sidebar:          true
 order:            1
 
 image:
