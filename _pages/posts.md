@@ -5,7 +5,7 @@ no_excerpt:       false
 hide_image:       false
 hide_title:       false
 
-layout:           grid
+layout:           post
 cover:            false
 sidebar:          false
 
