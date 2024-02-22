@@ -20,9 +20,5 @@ title:            Posts
 description:      All the posts in blog.
 hide_description: false
 
-pagination:
-  enabled:        true
-  permalink:      /Posts/page:num/
-
 grouped:          true
 ---
