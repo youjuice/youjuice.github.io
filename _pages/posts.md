@@ -5,7 +5,7 @@ no_excerpt:       false
 hide_image:       false
 hide_title:       false
 
-layout:           post
+layout:           posts
 cover:            false
 sidebar:          false
 
@@ -19,6 +19,7 @@ image:
 title:            Posts
 description:      All the posts in blog.
 hide_description: false
+permalink:        /Posts/
 
 grouped:          true
 ---
