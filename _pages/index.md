@@ -18,7 +18,7 @@ image:
     480w:         /assets/img/banner/banner.png
 
 title:            ₍ᐢ•ﻌ•ᐢ₎*･ﾟ｡☆
-description:      Yuju's Dev Diary
+description:      Yuju's Dev Blog
 hide_description: true
 permalink:        /
 
