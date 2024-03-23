@@ -2,5 +2,5 @@
 type: tag
 layout: list
 title:  Jungle
-description: Krafton Jungle WIL
+description: Krafton Jungle TIL
 ---
