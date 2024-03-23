@@ -22,7 +22,7 @@ categories:       [study]
 tag:              [jungle]
 ---
 
-## JUNGLE TIL-240322 (W01)
+## JUNGLE - 240322 (W01)
 
 * toc
 {:toc}
