@@ -22,7 +22,7 @@ categories:       [study]
 tag:              [jungle]
 ---
 
-## JUNGLE - 240323 (W01)
+## JUNGLE 240323 (W01)
 
 * toc
 {:toc}
