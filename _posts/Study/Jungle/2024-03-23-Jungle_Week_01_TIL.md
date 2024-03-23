@@ -53,6 +53,7 @@ for num in result:
 <br>
 
 **✔ 방법 2 - 병합 정렬**
+
 [**분할 정복**](#분할-정복-divide-and-conquer) 기법을 사용하여 구현
 {:.note}
 
