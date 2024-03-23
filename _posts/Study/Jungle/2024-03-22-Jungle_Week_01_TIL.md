@@ -12,7 +12,7 @@ toc:              true
 image:
   path:           /assets/img/banner/jungle_banner.png
 
-title:            크래프톤 정글 0주차 개발일지
+title:            크래프톤 정글 1주차 개발일지
 hide_title:       false
 description:      KRAFTON JUNGLE Week 01
 hide_description: false
@@ -173,7 +173,7 @@ print(count)
 > - 이를 활용해 대각선을 체크하고 행,열 방문을 체크해 퀸을 배치한다. 
 
 ### 2. Keywords
-#### - 재귀 (Recursion)
+#### 재귀 (Recursion)
 - 함수가 자기 자신을 호출하는 것
 - 주어진 문제를 더 작은 부분으로 분할하여 해결하는데 사용
 - But, 재귀 호출이 너무 깊어지면 스택 오버플로우와 같은 문제가 발생할 수 있음
