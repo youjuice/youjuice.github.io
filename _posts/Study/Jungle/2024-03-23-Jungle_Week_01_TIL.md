@@ -53,6 +53,9 @@ for num in result:
 <br>
 
 **✔ 방법 2 - 병합 정렬**
+[**분할 정복**](#분할-정복-divide-and-conquer) 기법을 사용하여 구현
+{:.note}
+
 ```python
 def divide(ex_list):
     if len(ex_list) == 1:           # 재귀 탈출 조건
@@ -89,8 +92,6 @@ def merge(left, right):
 > - 두 개의 부분 리스트를 하나의 정렬된 리스트로 합치는 함수
 > - 두 부분 리스트의 요소를 비교하여 더 작은 값을 새로운 리스트에 추가
 
-[분할 정복](#분할-정복-divide-and-conquer) 기법을 사용하여 구현
-{:.note}
 
 ### 2. Keywords
 #### 정렬 (Sort)
