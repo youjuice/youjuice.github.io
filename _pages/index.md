@@ -26,7 +26,7 @@ posts_page:       /Posts/
 selected_posts:
   - _posts/Study/Baekjoon/2024-03-07-Baekjoon_14502.md
   - _posts/Study/CS50/2024-02-24-CS50_5.md
-  - _posts/Study/Jungle/2024-03-23-Jungle_TIL_0322.md
+  - _posts/Study/Jungle/2024-03-22-Jungle_TIL_0322.md
 projects_page:    /Projects/
 selected_projects: # MAX 4
   - _projects/HalfTime.md
