@@ -33,7 +33,7 @@ links:
 **"PintOS"** is an educational operating system project where I implemented core OS functionalities to deepen 
 my understanding of system architecture.
 
-I built essential components of a functioning operating system, gaining hands-on experience 
+I built essential components of a functioning operating system, gaining experience 
 with low-level systems programming while developing practical skills in memory management and concurrency control.
 
 For more information:
