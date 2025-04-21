@@ -16,11 +16,11 @@ image:
     1920w:        /assets/img/projects/RockiBiki/banner.png
     960w:         /assets/img/projects/RockiBiki/banner.png
     480w:         /assets/img/projects/RockiBiki/banner.png
-caption:          Web-based Real-time Motion Recognition Boxing Game
+caption:          Motion-based Boxing Game
 
 title:            Rocki Biki
 date:             2024-07-10 11:37:00
-description:      Web-based Real-time Motion Recognition Boxing Game
+description:      Motion-based Boxing Game
 hide_description: true
 featured:         false
 
