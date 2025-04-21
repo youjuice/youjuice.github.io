@@ -51,6 +51,6 @@ For more information, please [**check my GitHub repository!**](https://github.co
 - Built a complete rendering pipeline using WebGL and GLSL
 
 ### Acceleration Structure
-- Implemented a Bounding Volume Hierarchy (BVH) for efficient ray casting
-- Applied Surface Area Heuristic (SAH) for optimal tree construction
-- Used texture-based data structures for GPU-friendly memory access
+- Implemented a **Bounding Volume Hierarchy** (BVH) for efficient ray casting
+- Applied **Surface Area Heuristic** (SAH) for optimal tree construction
+- Used **texture-based** data structures for GPU-friendly memory access

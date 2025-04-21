@@ -2,7 +2,7 @@
 last_modified_at: 2025-04-22 06:25:00
 no_link_title:    false
 no_excerpt:       false
-hide_image:       false
+hide_image:       true
 hide_title:       false
 
 layout:           project
