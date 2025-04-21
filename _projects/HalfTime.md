@@ -37,6 +37,6 @@ links:
 Since November 2024, we have been developing an MVP based on our initial proposal.
 
 Check out our project:
-- [Project Proposal](https://ringed-postage-dfc.notion.site/HALF-TIME-f1b8e2965c20405b86f7edc228fd0082?pvs=4)
-- [GitHub Repository](https://github.com/Boongeo)
-- [Dev Diary](https://ringed-postage-dfc.notion.site/HALF-TIME-13c13cff75d08013b396edf9efa62636?pvs=4)
+- [💡 Project Proposal](https://ringed-postage-dfc.notion.site/HALF-TIME-f1b8e2965c20405b86f7edc228fd0082?pvs=4)
+- [📎 GitHub Repository](https://github.com/Boongeo)
+- [💻 Dev Diary](https://ringed-postage-dfc.notion.site/HALF-TIME-13c13cff75d08013b396edf9efa62636?pvs=4)
