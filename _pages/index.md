@@ -29,8 +29,10 @@ selected_posts:
   - _posts/Study/Jungle/2024-03-22-Jungle_TIL_0322.md
 projects_page:    /Projects/
 selected_projects: # MAX 4
-  - _projects/HalfTime.md
-  - _projects/LETHE.md
+  - _projects/RockiBiki.md
+  - _projects/SorangSorang.md
+  - _projects/PintOS.md
+  - _projects/WebGLRayTracer.md
 ---
 # ꒰⸝⸝•ᴗ•⸝⸝꒱੭⁾⁾
 
