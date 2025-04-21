@@ -32,7 +32,7 @@ selected_projects: # MAX 4
   - _projects/HalfTime.md
   - _projects/LETHE.md
 ---
-# ‪₍ᐢ•ﻌ•ᐢ₎*･ﾟ｡☆‬
+# ꒰⸝⸝•ᴗ•⸝⸝꒱੭⁾⁾
 
 이 곳은 저의 개발 일지와 프로젝트에 대한 기록이 담긴 블로그입니다.
 
