@@ -11,11 +11,11 @@ sidebar:          false
 order:            0
 
 image:
-  path:           /assets/img/projects/RockiBiki/banner.png
+  path:           /assets/img/projects/RockiBiki/banner2.png
   srcset:
-    1920w:        /assets/img/projects/RockiBiki/banner.png
-    960w:         /assets/img/projects/RockiBiki/banner.png
-    480w:         /assets/img/projects/RockiBiki/banner.png
+    1920w:        /assets/img/projects/RockiBiki/banner2.png
+    960w:         /assets/img/projects/RockiBiki/banner2.png
+    480w:         /assets/img/projects/RockiBiki/banner2.png
 caption:          Web-based Real-time Motion Recognition Boxing Game
 
 title:            Rocki Biki
