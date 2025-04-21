@@ -2,7 +2,7 @@
 last_modified_at: 2025-04-22 06:25:00
 no_link_title:    false
 no_excerpt:       false
-hide_image:       false
+hide_image:       true
 hide_title:       false
 
 layout:           project
@@ -19,7 +19,7 @@ image:
 caption:          Operating System Implementation
 
 title:            PintOS Project
-date:             2023-03-10 11:37:00
+date:             2024-05-10 11:37:00
 description:      Operating System Implementation
 hide_description: true
 featured:         false
