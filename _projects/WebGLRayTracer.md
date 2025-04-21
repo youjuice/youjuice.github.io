@@ -25,7 +25,7 @@ hide_description: true
 featured:         false
 
 links:
-  - title:        More Info
+  - title:        GitHub URL
     url:          https://github.com/youjuice/webgl-raytracer
 
 ---
